@@ -1,0 +1,39 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border:medium;
+}
+.header{
+    background-color:#808080;
+    display:flex;
+    justify-content:space-between;
+}
+.menu{
+
+}
+.grid{
+    background-color: rgba(216, 119, 83, 0.801);
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    margin: 10pt;
+    padding: 50pt;
+    font-color:rgb(255, 10, 10);
+    font-size: medium;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+.body{
+    background-color: crimson;
+}
+.image{
+    border: 5pt;
+}
